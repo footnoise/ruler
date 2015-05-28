@@ -1,0 +1,14 @@
+7200.0 second = 2 hour
+10.0 glob = 1 decaglob
+1 day = 24.0 hour
+1 minute = 60 second
+1 glob = 10 centiglob
+1 day = 24 hour
+1 year = 365.25 day
+50 centiglob = ? decaglob
+5.6 second = ? hour
+3 millisecond = ? hour
+5.6 second = ? day
+1 day = ? glob
+1 hour = ? second
+1 year = ? second
